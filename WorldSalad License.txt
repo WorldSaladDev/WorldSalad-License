@@ -1,0 +1,21 @@
+This license describes the terms of usage across all of my (WorldSalad's) projects. I reserve the right to modify these terms at any time and without notice.
+Copyright (c) 2023 WorldSalad
+
+|* Your Rights *|
+You may...
+=> ...use and enjoy this content freely.
+=> ...host this content on multiplayer servers.
+=> ...view and use excerpts of this project's code in your own projects, and you must provide credit when doing so.
+=> ...create projects that expand upon this one ("addons," "expansions," "crossovers," etc.), as well as include this project in minecraft modpacks.
+
+|* Prohibited Usage *|
+Unless you are given explicit permission directly from me, do not...
+=> republish, reupload or otherwise reuse this project, in whole or in part, anywhere online or offline.
+     * you may reupload a resource pack containing this project's assets on a hosting site for usage on ingame servers.
+=> directly profit off of this project in any way.
+=> use this project as a part of promotion for any paid material.
+If you are in doubt of something, or want permission for other usage, please contact me directly.
+
+|* Credit *|
+If you are using my project as permited by the above statements, in whole or in part, make credit to me explicit and easily visible.
+Proper credit should include text of the following form: "Includes [Project Name] by WorldSalad, in whole or in part", or some equally informative text.
